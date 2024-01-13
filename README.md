@@ -41,7 +41,9 @@ The column headers were identified. you do so by navigating to ‘Transform tab�
 #### STEP3
 Split the datetime column into date and time stamp and renamed the columns.
 
-![](splitcolumnimage.PNG)   &#8594;   ![](timeanddate4.PNG) 
+     inital column       |   splited column
+ :----------------------:|:------------------:
+![](splitcolumnimage.PNG)|![](timeanddate4.PNG) 
 
 - Selected the desired column. Following the selection, the option of split the column becomes visible.
 - Choose the ‘Split Column’ option and space as the delimiter.
