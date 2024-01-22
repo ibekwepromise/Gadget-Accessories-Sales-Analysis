@@ -134,3 +134,5 @@ From the scatterplot it shows that there is a negative correlation between price
 
 #### full visualization
 ![](fullvisuals.PNG)
+
+[Click here to interact with dashborad] (https://www.novypro.com/project/sales-data-analysis-25)
