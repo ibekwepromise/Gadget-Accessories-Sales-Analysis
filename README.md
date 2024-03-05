@@ -135,4 +135,4 @@ From the scatterplot it shows that there is a negative correlation between price
 #### full visualization
 ![](fullvisuals.PNG)
 
-[Click here to interact with dashborad] (https://app.powerbi.com/view?r=eyJrIjoiODExMzk4ODktMDJkZC00NDBjLTg4YjktMmUwZjMzYWVlYWUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click here to interact with dashborad](https://app.powerbi.com/view?r=eyJrIjoiODExMzk4ODktMDJkZC00NDBjLTg4YjktMmUwZjMzYWVlYWUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
